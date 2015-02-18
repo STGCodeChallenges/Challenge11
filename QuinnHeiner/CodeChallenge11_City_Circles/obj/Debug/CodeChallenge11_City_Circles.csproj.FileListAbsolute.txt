@@ -1,0 +1,6 @@
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge11_City_Circles\bin\Debug\CodeChallenge11_City_Circles.exe.config
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge11_City_Circles\bin\Debug\CodeChallenge11_City_Circles.exe
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge11_City_Circles\bin\Debug\CodeChallenge11_City_Circles.pdb
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge11_City_Circles\obj\Debug\CodeChallenge11_City_Circles.csprojResolveAssemblyReference.cache
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge11_City_Circles\obj\Debug\CodeChallenge11_City_Circles.exe
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge11_City_Circles\obj\Debug\CodeChallenge11_City_Circles.pdb
