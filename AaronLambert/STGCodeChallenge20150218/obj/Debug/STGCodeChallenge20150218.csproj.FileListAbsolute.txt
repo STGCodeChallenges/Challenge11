@@ -1,0 +1,7 @@
+c:\users\stguser\documents\visual studio 2013\Projects\STGCodeChallenge20150218\STGCodeChallenge20150218\bin\Debug\STGCodeChallenge20150218.exe.config
+c:\users\stguser\documents\visual studio 2013\Projects\STGCodeChallenge20150218\STGCodeChallenge20150218\bin\Debug\STGCodeChallenge20150218.exe
+c:\users\stguser\documents\visual studio 2013\Projects\STGCodeChallenge20150218\STGCodeChallenge20150218\bin\Debug\STGCodeChallenge20150218.pdb
+c:\users\stguser\documents\visual studio 2013\Projects\STGCodeChallenge20150218\STGCodeChallenge20150218\obj\Debug\STGCodeChallenge20150218.csprojResolveAssemblyReference.cache
+c:\users\stguser\documents\visual studio 2013\Projects\STGCodeChallenge20150218\STGCodeChallenge20150218\obj\Debug\STGCodeChallenge20150218.exe
+c:\users\stguser\documents\visual studio 2013\Projects\STGCodeChallenge20150218\STGCodeChallenge20150218\obj\Debug\STGCodeChallenge20150218.pdb
+c:\users\stguser\documents\visual studio 2013\Projects\STGCodeChallenge20150218\STGCodeChallenge20150218\bin\Debug\testdata.txt
